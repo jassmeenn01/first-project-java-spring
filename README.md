@@ -96,6 +96,7 @@ Visiting `http://localhost:8080/` renders:
 
 <img width="653" height="267" alt="image" src="https://github.com/user-attachments/assets/a3058bfa-e2ac-4fd6-886f-a9a177cb0807" />
 
+
 Visiting `http://localhost:8080/greeting?name=Vistula` renders:
 
 <img width="871" height="908" alt="image" src="https://github.com/user-attachments/assets/1b4bdc08-5a63-49f2-81e4-c6d9de86b653" />
